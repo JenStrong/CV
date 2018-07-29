@@ -7,10 +7,10 @@ I am a junior full stack developer focused on transforming my love for logical p
 # <a id="projects"></a>Projects 
 | Project                                                               | Summary        | Technologies  | Testing|
 | ----------------------------------------------------------------------| -------------|--------------|----------|
-| [Postagram](https://github.com/JenStrong/postagram)                   | A Rails based application designed to mimic the basic functionality of Instagram. Built while following Michael Hart's Ruby on Rails tutorial. User authentication done without a gem.               | Ruby on Rails, CSS/HTML, Bootstrap | Minitest
-| [Petbook](https://github.com/JenStrong?tab=repositories)              | Facebook clone built as group groject while at Maker's Academy. This was my first Rails project.               | Ruby on Rails, CSS/HTML, Bootstrap | RSpec, Capybara
-| [Bowling Scorecard](https://github.com/JenStrong/bowling-challenge)   | A simple web app that calculates scores for ten pin bowling. Built during my first week of learning vanilla Javascript.     | Javascript, CSS/HTML, Bootstrap | Jasmine
-| [Banking App](https://github.com/JenStrong/bank-app) | A CLI Ruby app that allows a user to make credit and debit transaction to their bank account, in addition to printing a statement.| Ruby | RSpec
+| [Banking App](https://github.com/JenStrong/bank-app)                   | A CLI Ruby app that allows a user to make credit and debit transaction to their bank account, in addition to printing a statement.| Ruby | RSpec
+| [Thermostat](https://github.com/JenStrong/thermostat)                | A web app that mimics the behavior of a thermostat by allowing a user to increase and decrease the temperature and turn a power-saving-mode on and off.| Javascript, jQuery, CSS/HTML, Bootstrap | RSpec, Capybara
+| [Donate, Period](https://github.com/JenStrong/donate-period)   | Currently in development, group project - A web app that allows users to view and purchase needed items for charitable organizations. Charity information pulled from the JustGiving API.    | Javascript / Node.js, React, Express, PostgreSQL | Jest, Enzyme, Mocha
+| [Postagram](https://github.com/JenStrong/postagram)| A Rails based application designed to mimic the basic functionality of Instagram. Built while following Michael Hart's Ruby on Rails tutorial. User authentication done without a gem. |  Ruby on Rails, CSS/HTML, Bootstrap | Minitest
 
 
 # <a id="skills"></a>Skills
@@ -58,6 +58,7 @@ Oversaw the organization's mobile food shelf and school partnership programs. Th
 Assisted in researching and developing new methods of redirecting agricultural surplus into the hunger relief network. My main project included assisting in the implementation of a produce bagging system that moved 2.5 million pounds of potatoes into the hands of hunger relief agencies across the United States. Video clip of project can be found <a href="https://www.youtube.com/watch?v=Jd0iexBwSqAhere">here</a>.
 
 # <a id="interests"></a>Interests
+- Technology for social change 
 - Traveling / Living Abroad / Photography 
 - Book Arts / Bookbinding 
 
@@ -66,8 +67,5 @@ Assisted in researching and developing new methods of redirecting agricultural s
 <p align="center">
 <a href="https://twitter.com/devgirljen">
 <img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" alt="twitter" hspace="50" height="42" width="42"></a>
-<a href="https://medium.com/@jen_strong">
-<img src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png" alt="medium" hspace="50" height="42" width="42"></a>
-
 <a href="https://www.linkedin.com/in/jenniferastrong/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
