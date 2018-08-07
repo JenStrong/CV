@@ -2,7 +2,7 @@
 
 [Projects](#projects) |  [Skills](#skills)  |  [Education](#education)  | [ Experience](#experience)  |  [Interests](#interests) | [Connect](#connect)
 
-I am a junior full stack developer focused on transforming my love for logical problem solving into a career in web development. I'm drawn to the tech industry because of it's seemingly limitless potential to drastically change the world on a large scale. I am looking to join a company that provides a supportive learning environment while simultaneously embracing innovation, and meaningful work. 
+I am a junior full stack developer focused on transforming my love for logical problem solving into a career in web development. I'm drawn to the tech industry because of its seemingly limitless potential to drastically change the world on a large scale. I am looking to join a company that provides a supportive learning environment while simultaneously embracing innovation, and meaningful work. 
 
 # <a id="projects"></a>Projects 
 | Project                                                               | Summary        | Technologies  | Testing|
