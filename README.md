@@ -4,6 +4,8 @@
 
 I am a junior full stack developer focused on transforming my love for logical problem solving into a career in web development. I'm drawn to the tech industry because of its seemingly limitless potential to drastically change the world on a large scale. I am looking to join a company that provides a supportive learning environment while simultaneously embracing innovation, and meaningful work. 
 
+Check out my CV website: https://jenstrong.github.io/
+
 # <a id="projects"></a>Projects 
 | Project                                                               | Summary        | Technologies  | Testing|
 | ----------------------------------------------------------------------| -------------|--------------|----------|
