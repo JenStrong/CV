@@ -49,6 +49,12 @@ Maker's Academy is a 16-week coding bootcamp focused on teaching students the fu
 
 # <a id="experience"></a>Experience
 
+<a href="https://www.thetrainline.com/">**Trainline**</a> (December 2018 - Current)    
+*Software Developer* <br>
+
+Frontend developer working with Javascript, React/Redux, and Typescript 
+
+
 <a href="https://www.icafoodshelf.org/">**Intercongreational Communities Association Food Shelf**</a> (August 2015 - April 2018)    
 *Food Logistics Coordinator* <br>
 
