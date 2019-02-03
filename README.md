@@ -31,22 +31,6 @@ Pair programing has been an essential aspect in my learning how to code. I've fo
 
 ####  
 
-# <a id="education"></a>Education
-
-#### <a href="https://makers.tech/">Makers Academy</a> (May 2018 - August 2018)
-
-Maker's Academy is a 16-week coding bootcamp focused on teaching students the fundamentals of web development. In addition to learning the technical aspects of programming, the course also focuses on industry best practices including TDD, Pair Programming, and XP values. 
-
-- Languages: Ruby, Javascript, SQL, HTML/CSS <br>
-- Web Frameworks: Sinatra, Rails, ExpressJS <br>
-- Testing Frameworks: RSpec, Capybara, Jasmine
-
-#### <a href="https://www.stthomas.edu/">University of St. Thomas</a> (September 2010 - May 2014) 
-
-- Bachelor of Science, International Economics
-- GPA: 3.8/4.0 scale
-- Varsity athlete: Cross Country + Track and Field 
-
 # <a id="experience"></a>Experience
 
 <a href="https://www.thetrainline.com/">**Trainline**</a> (December 2018 - Current)    
@@ -64,6 +48,22 @@ Oversaw the organization's mobile food shelf and school partnership programs. Th
 *Produce Capture Institute Specialist* <br>
 
 Assisted in researching and developing new methods of redirecting agricultural surplus into the hunger relief network. My main project included assisting in the implementation of a produce bagging system that moved 2.5 million pounds of potatoes into the hands of hunger relief agencies across the United States. Video clip of project can be found <a href="https://www.youtube.com/watch?v=Jd0iexBwSqAhere">here</a>.
+
+# <a id="education"></a>Education
+
+#### <a href="https://makers.tech/">Makers Academy</a> (May 2018 - August 2018)
+
+Maker's Academy is a 16-week coding bootcamp focused on teaching students the fundamentals of web development. In addition to learning the technical aspects of programming, the course also focuses on industry best practices including TDD, Pair Programming, and XP values. 
+
+- Languages: Ruby, Javascript, SQL, HTML/CSS <br>
+- Web Frameworks: Sinatra, Rails, ExpressJS <br>
+- Testing Frameworks: RSpec, Capybara, Jasmine
+
+#### <a href="https://www.stthomas.edu/">University of St. Thomas</a> (September 2010 - May 2014) 
+
+- Bachelor of Science, International Economics
+- GPA: 3.8/4.0 scale
+- Varsity athlete: Cross Country + Track and Field 
 
 # <a id="interests"></a>Interests
 - Technology for social change 
