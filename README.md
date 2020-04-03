@@ -12,8 +12,6 @@ Check out my CV website: https://jenstrong.github.io/
 | [Banking App](https://github.com/JenStrong/bank-app)                   | A CLI Ruby app that allows a user to make credit and debit transaction to their bank account, in addition to printing a statement.| Ruby | RSpec
 | [Thermostat](https://github.com/JenStrong/thermostat)                | A web app that mimics the behavior of a thermostat by allowing a user to increase and decrease the temperature and turn a power-saving-mode on and off.| Javascript, jQuery, CSS/HTML, Bootstrap | RSpec, Capybara
 | [Donate, Period](https://github.com/JenStrong/donate-period)   | Group Final Project at Makers - A web app that allows users to view and purchase needed items for charitable organizations. Charity information pulled from the JustGiving API.    | Javascript / Node.js, React, Express, PostgreSQL | Jest, Enzyme, Mocha
-| [Postagram](https://github.com/JenStrong/postagram)| In development - A Rails application designed to mimic the basic functionality of Instagram. User authentication done without a gem. |  Ruby on Rails, CSS/HTML, Bootstrap | Minitest
-
 
 # <a id="skills"></a>Skills
 
