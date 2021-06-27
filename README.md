@@ -74,7 +74,7 @@ Whether it’s setting up new API integrations or exploring tools to automate re
 
 #### <a href="https://makers.tech/">Makers</a> (May 2018 - August 2018)
 
-Maker's Academy is a 16-week coding bootcamp focused on teaching students the fundamentals of web development. In addition to learning the technical aspects of programming, the course also focuses on industry best practices including TDD, Pair Programming, and XP values. 
+Makers is a 16-week coding bootcamp focused on teaching students the fundamentals of web development. In addition to learning the technical aspects of programming, the course also focuses on industry best practices including TDD, Pair Programming, and XP values. 
 
 - Languages: Ruby, Javascript, SQL, HTML/CSS <br>
 - Web Frameworks: Sinatra, Rails, ExpressJS <br>
