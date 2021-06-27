@@ -37,7 +37,7 @@ Check out my CV website: https://jenstrong.github.io/
 
 ## <a id="experience"></a>Experience
 
-<a href="https://www.thetrainline.com/">**Trainline**</a> <br><br>
+#### **<a href="https://www.thetrainline.com/">**Trainline**</a> <br>**
 _Web Engineer_ (August 2020 - Present)	<br>
 _Junior Web Engineer_ (December 2018 - August 2020) <br>
 
